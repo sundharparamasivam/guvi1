@@ -4,4 +4,4 @@ for i in range(su[0]+1,su[1]):
         if i%j==0:
             break    
     else:
-        print(i)
+        print(i,end=" ")
